@@ -1,0 +1,8 @@
+{
+  "name": "early-career-internship-jobs-feed-example",
+  "private": true,
+  "type": "module",
+  "description": "Client example for the Internship Jobs Scraper — New Grad, Stage & Alternance Feed Apify Actor",
+  "scripts": { "start": "node example.mjs" },
+  "dependencies": { "apify-client": "^2.9.0" }
+}
